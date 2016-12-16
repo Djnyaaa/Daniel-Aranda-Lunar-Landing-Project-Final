@@ -15,11 +15,8 @@ Previsualización: https://rawgit.com/Djnyaaa/Daniel-Aranda-Lunar-Landing-Projec
 * Visualización del menú: He creado un menú nuevo a partir de 0 dado que no veia logico la opcion Ajustes, Controles, Pausar y Voluemn. Por lo tanto lo que hice fue hacer un Dropdown menu a partir de Ajustes y esté seria el padre y los hijos serian Controles, Acerca de... y Volumen (este ultimo no ha sido implementado).
 * El fondo tambien ha sido cambiado, dado que el dado por el cliente no era repetitivo.
 * En la versión móvil decidi cambiar la vista del menu de Opciones y Estado:
-  ** Estos estarían en la parte superior conjuntamente uno al lado del otro para ahorra espacio.**
+  * Estos estarían en la parte superior conjuntamente uno al lado del otro para ahorrar espacio.
 * Al empezar a jugar tendremos que aterrizar con una velocidad menor a 5 M/S, si lo logramos la nave aterrizara seguramente y saldra un mensaje indicandonos que hemos ganado. En caso contrario, la nave explotara repetidamente y saldra un mensaje que nos dira Game Over. Una vez aceptado el mensaje volveremos a empezar.
 * Niveles: No han sido implementados por falta de tiempo.
 * Las paginas Acerca de... y HowToPlay... explican la informacion de los autores del proyecto principal y luego el del desarrollador y el otro como jugar.
 
-
-
-*
