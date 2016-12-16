@@ -3,7 +3,7 @@ Versión final del juego Lunar Landing que incluye:
 
 * Html con los elementos básicos del juego
 * Css: Dos archivos uno para escritorio (d.css) y movil (m.css) que se ajustan a la pantalla del dispositivo. 
-* Js: El archivo necesario para
+* Js: El archivo necesario para que la nave cumpla las funciones como: Quedar sin gasolina, Aterrizar seguramente y Expotar en caso de no cumplir el objetivo.
 * Img: Imagenes necesarias para la visualización del proyecto.
 * audio: No ha podido ser implementado dado la falta de tiempo.
 
