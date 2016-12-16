@@ -1,0 +1,104 @@
+
+
+body,html{height:100%;padding:0px;margin:0px; background-image: url("../img/fondo.jpg");}
+
+.a{ width: 73%;height:15%;background-color: white; top: 0; border: 5px solid grey; display: inline-block;}
+
+
+
+.b{background-color:white; height:15%;width:19	%; border: 5px solid grey; float: right;}
+#ajustes {text-align: center;}
+#ajustes img{height:100%; }
+
+
+
+.a,.b,.c{display:inline-block;}
+
+.d{background-image: url("../img/superficie.png");height:12%;width:100%;position:fixed;bottom:0px;}
+
+#nave{text-align:center;position:fixed;width:100%;height:20%}
+
+#nave img{height:100%;}
+
+#cpanel{display: inline-block; list-style: none;}
+
+#hidem,#showm{display:none}
+
+audio { display: none;
+}
+
+.panelcontrol { border: 10px solid black;
+	height: 25%;
+	box-sizing: border-box;
+	text-align: center;
+	clear: both;
+}
+.opciones { background-position: left;
+	border: 5px solid grey;
+	width: 20%;
+	position: fixed;
+	background: #fff
+}
+
+
+/*
+* Menu Desplegable
+*/
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 1;
+    
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+.dropdown-content img {
+		
+	width: 75%;
+}
+
+/*
+**How To Play
+*/
+
+}
+.how {
+	background-color:transparent; height:75%;width:100%; border: 5px solid transparent; top:10%; top: 50px; text-align:center;
+}
+.how  h3 {
+	top: 20%;
+	text-align:center;
+	font-size: 40px;
+	color: white;
+}	
+.how  p {
+	font-size: 30	px;
+	color: white;
+	box-sizing: border-box;
+	text-align: center;
+	clear: both;
+}	
+.volver {background-color:white; height:10%;width:15%; border: 5px solid grey; text-align:center;	
+	
+}
+.volver img {height: 100%;text-align:center;	
+}
+.how ul {
+	font-size: 30	px;
+	color: white;
+	box-sizing: border-box;
+	text-align: center;
+	clear: both;
+	list-style: none;
+}
